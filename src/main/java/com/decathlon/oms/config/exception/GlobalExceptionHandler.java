@@ -1,12 +1,9 @@
-package com.ge.grid.config.exception;
+package com.decathlon.oms.config.exception;
 
-import com.ge.grid.model.ErrorDetails;
-import org.springframework.http.HttpHeaders;
+import com.decathlon.oms.model.ErrorDetails;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;

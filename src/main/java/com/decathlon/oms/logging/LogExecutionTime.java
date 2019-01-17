@@ -1,4 +1,4 @@
-package com.ge.grid.logging;
+package com.decathlon.oms.logging;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

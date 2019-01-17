@@ -1,4 +1,4 @@
-package com.ge.grid.config.exception;
+package com.decathlon.oms.config.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

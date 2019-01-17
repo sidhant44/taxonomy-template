@@ -1,4 +1,4 @@
-package com.ge.grid.config.exception;
+package com.decathlon.oms.config.exception;
 
 public class InternalServerEeception extends RuntimeException {
     public InternalServerEeception() {

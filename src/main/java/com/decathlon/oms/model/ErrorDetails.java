@@ -1,4 +1,4 @@
-package com.ge.grid.model;
+package com.decathlon.oms.model;
 
 import java.util.Date;
 

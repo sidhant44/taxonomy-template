@@ -1,4 +1,4 @@
-package com.ge.grid;
+package com.decathlon.oms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

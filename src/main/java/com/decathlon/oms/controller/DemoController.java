@@ -1,11 +1,10 @@
-package com.ge.grid.controller;
+package com.decathlon.oms.controller;
 
-import com.ge.grid.config.exception.BadRequestException;
-import com.ge.grid.config.exception.ResourceNotFoundException;
-import com.ge.grid.logging.Log;
-import com.ge.grid.logging.LogExecutionTime;
-import com.ge.grid.model.MyModel;
-import com.ge.grid.service.MyService;
+import com.decathlon.oms.config.exception.ResourceNotFoundException;
+import com.decathlon.oms.logging.Log;
+import com.decathlon.oms.logging.LogExecutionTime;
+import com.decathlon.oms.model.MyModel;
+import com.decathlon.oms.service.MyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;

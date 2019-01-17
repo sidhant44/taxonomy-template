@@ -1,4 +1,4 @@
-package com.ge.grid.util;
+package com.decathlon.oms.util;
 
 public class Constants {
     public static class TeamplateConstants{

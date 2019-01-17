@@ -1,6 +1,6 @@
-package com.ge.grid.service;
+package com.decathlon.oms.service;
 
-import com.ge.grid.model.MyModel;
+import com.decathlon.oms.model.MyModel;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.stereotype.Service;
 
